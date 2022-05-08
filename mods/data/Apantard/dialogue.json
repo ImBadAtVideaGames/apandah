@@ -1,0 +1,46 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "beep bo ba p fuckin you suck as s"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "apandah2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "apandah2",
+			"boxState": "normal",
+			"expression": "lessertalk",
+			"text": "i've never done this in my life and you expect\\nme to be good you blue ball freak"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep bep (no bitc hess)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "apandah2",
+			"boxState": "normal",
+			"expression": "lessertalk",
+			"text": "i hate you"
+		}
+	]
+}

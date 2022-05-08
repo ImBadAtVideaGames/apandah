@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="apandah.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Apandah portrait instance 10000" x="0" y="0" width="491" height="80" frameX="0" frameY="-221" frameWidth="491" frameHeight="523"/>
+	<SubTexture name="Apandah portrait instance 10001" x="491" y="0" width="491" height="235" frameX="0" frameY="-144" frameWidth="491" frameHeight="523"/>
+	<SubTexture name="Apandah portrait instance 10002" x="982" y="0" width="491" height="365" frameX="0" frameY="-79" frameWidth="491" frameHeight="523"/>
+	<SubTexture name="Apandah portrait instance 10003" x="1473" y="0" width="491" height="443" frameX="0" frameY="-40" frameWidth="491" frameHeight="523"/>
+	<SubTexture name="Apandah portrait instance 10004" x="0" y="443" width="491" height="491" frameX="0" frameY="-16" frameWidth="491" frameHeight="523"/>
+	<SubTexture name="Apandah portrait instance 10005" x="491" y="443" width="491" height="523"/>
+	<SubTexture name="Apandah portrait instance 10006" x="491" y="443" width="491" height="523"/>
+	<SubTexture name="Apandah portrait instance 10007" x="491" y="443" width="491" height="523"/>
+	<SubTexture name="Apandah portrait instance 10008" x="491" y="443" width="491" height="523"/>
+	<SubTexture name="Apandah portrait instance 10009" x="491" y="443" width="491" height="523"/>
+	<SubTexture name="Apandah portrait instance 10010" x="491" y="443" width="491" height="523"/>
+	<SubTexture name="Apandah portrait instance 10011" x="491" y="443" width="491" height="523"/>
+	<SubTexture name="Apandah portrait instance 10012" x="491" y="443" width="491" height="523"/>
+	<SubTexture name="Apandah portrait instance 10013" x="491" y="443" width="491" height="523"/>
+	<SubTexture name="Apandah portrait instance 10014" x="491" y="443" width="491" height="523"/>
+</TextureAtlas>

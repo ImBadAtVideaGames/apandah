@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep bop ddooodoo far shit"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "apandah",
+			"boxState": "normal",
+			"expression": "",
+			"text": "bro fuckin go away who are you"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "apandah",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "wait aren't you like"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "apandah",
+			"boxState": "normal",
+			"expression": "",
+			"text": "that one stupid idiot who raps with people"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "yeah dude have you not seen fnf"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "apandah",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "cringe"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep boop (no bitchers)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "apandah",
+			"boxState": "normal",
+			"expression": "",
+			"text": "im going to beat the shit out of you you\\nsilly ass fucking cunt motherfucking bitch\\nass jeff the killer lookin mf lookin like jeff\\nbezos on crack mf lookin like "
+		}
+	]
+}

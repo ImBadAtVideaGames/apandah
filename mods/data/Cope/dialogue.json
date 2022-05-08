@@ -1,0 +1,67 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "apandah2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "nice you won wow very cool wow dude"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "apandah2",
+			"boxState": "normal",
+			"expression": "lessertalk",
+			"text": "now leave"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bexp (no xxdxdd)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "apandah2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "fine then"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "apandah2",
+			"boxState": "normal",
+			"expression": "look",
+			"text": "i have to go after this anyway"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "wait"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "you aren't supposed to leave i am"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "why are you like this"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "apandah2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "good question"
+		}
+	]
+}

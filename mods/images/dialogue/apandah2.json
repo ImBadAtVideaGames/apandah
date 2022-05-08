@@ -1,0 +1,76 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		0,
+		50
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"loop_name": "Apandah Text0000",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Apandah Text0000",
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Apandah Text0001",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Apandah Text0001",
+			"anim": "look",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Apandah Text0002",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Apandah Text0002",
+			"anim": "penis",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Apandah Text0003",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Apandah Text0003",
+			"anim": "man",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Apandah Text0004",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Apandah Text0004",
+			"anim": "lessertalk",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "Apandah2"
+}

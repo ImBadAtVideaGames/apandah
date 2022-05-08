@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="apandah2.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Apandah Text0000" x="0" y="0" width="388" height="455" frameX="-72" frameY="-1" frameWidth="460" frameHeight="458"/>
+	<SubTexture name="Apandah Text0001" x="388" y="0" width="388" height="454" frameX="-72" frameY="-4" frameWidth="460" frameHeight="458"/>
+	<SubTexture name="Apandah Text0002" x="776" y="0" width="460" height="454" frameX="0" frameY="0" frameWidth="460" frameHeight="458"/>
+	<SubTexture name="Apandah Text0003" x="1236" y="0" width="366" height="384" frameX="-78" frameY="-62" frameWidth="460" frameHeight="458"/>
+	<SubTexture name="Apandah Text0004" x="1602" y="0" width="389" height="454" frameX="-67" frameY="-1" frameWidth="460" frameHeight="458"/>
+</TextureAtlas>

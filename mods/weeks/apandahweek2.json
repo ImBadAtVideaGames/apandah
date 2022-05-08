@@ -1,0 +1,49 @@
+{
+	"storyName": "Who's Apanda? STFU bro omg no one asked for your opinion",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"apandah2",
+		"bf",
+		""
+	],
+	"songs": [
+		[
+			"Who",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Apantard",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Cope",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Apandah Week"
+}

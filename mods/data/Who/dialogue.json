@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "apandah2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "fivwen ight at fredy-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bee p"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "apandah2",
+			"boxState": "normal",
+			"expression": "penis",
+			"text": "jesus christ wtf"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "apandah2",
+			"boxState": "normal",
+			"expression": "look",
+			"text": "how did you-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "apandah2",
+			"boxState": "normal",
+			"expression": "look",
+			"text": "like seriously i didn't edit you in what\\nthe hell???"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "rap battle right now you fukin bitc h\\n*beep bo p)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "apandah2",
+			"boxState": "normal",
+			"expression": "lessertalk",
+			"text": "goddamn kfc ass-licking motherfucker fine"
+		}
+	]
+}
